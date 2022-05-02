@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+html {
+    background-color: #555D5E;
+}
+
+#img {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.lists {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
